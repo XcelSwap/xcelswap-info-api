@@ -1,6 +1,6 @@
 # XcelSwap API
 
-The PancakeSwap API is a set of endpoints used by market aggregators (e.g. coinmarketcap.com) to surface PancakeSwap liquidity
+The XcelSwap API is a set of endpoints used by market aggregators (e.g. coinmarketcap.com) to surface XcelSwap liquidity
 and volume information. All information is fetched from the underlying subgraphs.
 
 ## v1 Documentation
