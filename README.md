@@ -5,7 +5,7 @@ and volume information. All information is fetched from the underlying subgraphs
 
 ## v1 Documentation
 
-The documentation of the endpoints, for PancakeSwap v1, can be found [here](v1-documentation.md).
+The documentation of the endpoints, for XcelSwap v1, can be found [here](v1-documentation.md).
 
 
 
